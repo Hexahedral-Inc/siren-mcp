@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.mysiren/siren",
+  "title": "Siren",
+  "description": "Deterministic visual marketing engine. Your agent plans, renders, and posts on-brand campaigns.",
+  "repository": {
+    "url": "https://github.com/Hexahedral-Inc/siren-mcp",
+    "source": "github"
+  },
+  "homepage": "https://mysiren.ai",
+  "version": "1.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.mysiren.ai/mcp"
+    }
+  ]
+}
