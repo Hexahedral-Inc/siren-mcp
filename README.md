@@ -2,6 +2,8 @@
 
 # Siren MCP
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/hexahedral-inc/siren-mcp)
+
 Your agent makes the images, captions, and videos for your brand, then posts them to your socials. You show Siren the brand once. After that you type `post this` in Cursor, Claude, ChatGPT, Codex, or Grok and it goes out.
 
 Remote MCP server, Streamable HTTP, OAuth 2.1. No API keys to copy.
