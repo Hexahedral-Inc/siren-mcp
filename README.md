@@ -50,6 +50,10 @@ The agent opens a consent page on app.mysiren.ai. Approve once. Posting stays of
 | `schedule_post` | Queues a finished run for a time in your timezone |
 | `get_brand_dna`, `update_brand_dna` | Read and patch the brand profile |
 | `list_product_screens`, `upload_product_screen`, `update_product_screen`, `delete_product_screen` | Product screenshots Siren can paint into assets |
+| `studio_templates` | The 33 Studio data-card types, families, and body fields |
+| `studio_card` | Render a Studio card. Optional live post |
+| `studio_automate` | Create a Studio profile; returns generate curl and hook URLs |
+| `studio_schedule` | Render a Studio card and queue a scheduled post |
 
 Posts go through the channels already connected in the Siren dashboard: X, LinkedIn, Instagram, TikTok, YouTube. The agent never sees your platform tokens.
 
